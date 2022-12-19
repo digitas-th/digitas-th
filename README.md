@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=NextJS&logoColor=white&color=042460)
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=587d9f)
+![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=scss&logoColor=white&color=587d9f)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=587d9f)
 ![](https://img.shields.io/badge/Style-MaterializeCSS-informational?style=flat&logo=Material-UI&logoColor=white&color=587d9f)
 
