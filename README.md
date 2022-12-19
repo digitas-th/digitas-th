@@ -1,4 +1,4 @@
-## 🦄 Digitas Thailand 🥇
+# 🦄 Digitas Thailand 🥇
 
 ![alt text](https://github.com/digitas-th/digitas-th/blob/main/github_digitas_banner.gif)
 <br>
