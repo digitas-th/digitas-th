@@ -3,7 +3,7 @@
 ![alt text](https://github.com/digitas-th/digitas-th/blob/main/github_digitas_banner.gif)
 <br>
 
-พวกเรา “DIGITAS” ตัวม้าแห่งวงการเอเจนซี่โฆษณา<br>
+พวกเรา “DIGITAS” ตัวม้าแห่งวงการเอเจนซี่โฆษณา 🏆<br>
 Connected Marketing Agency <br>
 ม้าที่วิ่งพาทุก Idea ไปต่อติดกับทุก Marketing Activity ของลูกค้าผ่านทาง<br>
 .<br>
@@ -18,7 +18,7 @@ Mar-Tech Transformation – การสร้างเทคโนโลยี�
 เพื่อประสิทธิภาพที่คุ้มค่าที่สุด รักงานเกินปุยมุ้ยยย <br>
 .
 <br>
-#DIGITASTHAILAND #PublicisgroupeThailand<br>
+#DIGITASTHAILAND #PublicisgroupeThailand<br><br>
 
 ## 🎯 Skills and Experience
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html5&logoColor=white&color=042460)
