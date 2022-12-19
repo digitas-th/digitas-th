@@ -20,7 +20,7 @@ Mar-Tech Transformation – การสร้างเทคโนโลยี�
 <br>
 #DIGITASTHAILAND #PublicisgroupeThailand<br><br><br>
 
-## 🎯 Skills and Experience
+# 🎯 Skills and Experience
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html5&logoColor=white&color=042460)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=042460)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Php&logoColor=white&color=042460)
@@ -46,7 +46,7 @@ Mar-Tech Transformation – การสร้างเทคโนโลยี�
 <img src="https://github.com/digitas-th/digitas-th/blob/main/rw3.jpeg" width="260" height="260">
 <br><br>
 
-## &#x1f4c8; GitHub Stats
+# &#x1f4c8; GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com?user=digitas-th&theme=radical&date_format=j%20M%5B%20Y%5D" width="600">
 <a style="margin-top:10px" href="https://github.com/MidnightCore">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=digitas-th&show_icons=true&include_all_commits=true&count_private=true&theme=radical&layout=compact" alt="GitHub Stats for MidnightCore" width="600"/>
