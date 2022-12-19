@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=042460)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Php&logoColor=white&color=042460)
 ![](https://img.shields.io/badge/Code-PYTHON-informational?style=flat&logo=Python&logoColor=white&color=042460)
+![](https://img.shields.io/badge/Code-REACT-informational?style=flat&logo=Python&logoColor=white&color=042460)
+![](https://img.shields.io/badge/Code-TYPESCRIPT-informational?style=flat&logo=Python&logoColor=white&color=042460)
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=587d9f)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=587d9f)
@@ -36,7 +38,7 @@ Mar-Tech Transformation – การสร้างเทคโนโลยี�
 <br>
 #DIGITASTHAILAND #PublicisgroupeThailand
 
-<br><br>
+<br>
 
 ## &#x1f4c8; GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com?user=digitas-th&theme=radical&date_format=j%20M%5B%20Y%5D" width="600">
