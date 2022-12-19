@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/Style-MaterializeCSS-informational?style=flat&logo=Material-UI&logoColor=white&color=587d9f)
 
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Wordpress-informational?style=flat&logo=Wordpress&logoColor=white&color=4AB197)
 
