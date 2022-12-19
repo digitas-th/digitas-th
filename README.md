@@ -40,8 +40,10 @@ Mar-Tech Transformation – การสร้างเทคโนโลยี�
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
 <br>
-![alt text](https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/319210659_630203108891991_6283334001365908085_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=IC2pB6vQBjsAX-0j76s&_nc_ht=scontent-sin6-4.xx&oh=00_AfCoqYtglFfdSykvnCnimVSrSLnQUxAZQAVLGHzxXY1rkQ&oe=63A60094)
-![alt text]([https://github.com/digitas-th/digitas-th/blob/main/github_digitas_banner.gif](https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/319500073_630203118891990_1038501474185830090_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=aUOcd1_M8FUAX95qLku&_nc_ht=scontent-sin6-3.xx&oh=00_AfB80Tu5G9rGOhX8B3WLkMj6VBTooP-FyKP663e5pXoD3A&oe=63A5E376))
+<img src="https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/319210659_630203108891991_6283334001365908085_n.jpg" width="400">
+<img src="https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/319500073_630203118891990_1038501474185830090_n.jpg" width="400">
+![alt text](https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/319210659_630203108891991_6283334001365908085_n.jpg)
+![alt text](https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/319500073_630203118891990_1038501474185830090_n.jpg)
 <br>
 
 ## &#x1f4c8; GitHub Stats
