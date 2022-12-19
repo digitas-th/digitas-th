@@ -40,10 +40,10 @@ Mar-Tech Transformation – การสร้างเทคโนโลยี�
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
 <br>
-<!-- <img src="https://github.com/digitas-th/digitas-th/blob/main/rw0.jpeg" width="800"> -->
-<img align="left" src="https://github.com/digitas-th/digitas-th/blob/main/rw1.jpeg" width="350">
-<img align="right" src="https://github.com/digitas-th/digitas-th/blob/main/rw2.jpeg" width="350">
 <img src="https://github.com/digitas-th/digitas-th/blob/main/rw0.jpeg" width="800">
+<img align="left" src="https://github.com/digitas-th/digitas-th/blob/main/rw1.jpeg" width="300" height="300">
+<img src="https://github.com/digitas-th/digitas-th/blob/main/rw2.jpeg" width="300" height="300">
+<!-- <img src="https://github.com/digitas-th/digitas-th/blob/main/rw0.jpeg" width="800"> -->
 <br>
 
 ## &#x1f4c8; GitHub Stats
