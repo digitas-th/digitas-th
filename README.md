@@ -8,8 +8,9 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=042460)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Php&logoColor=white&color=042460)
 ![](https://img.shields.io/badge/Code-PYTHON-informational?style=flat&logo=Python&logoColor=white&color=042460)
-![](https://img.shields.io/badge/Code-REACT-informational?style=flat&logo=Python&logoColor=white&color=042460)
-![](https://img.shields.io/badge/Code-TYPESCRIPT-informational?style=flat&logo=Python&logoColor=white&color=042460)
+![](https://img.shields.io/badge/Code-REACT-informational?style=flat&logo=React&logoColor=white&color=042460)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=Typescript&logoColor=white&color=042460)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=NextJS&logoColor=white&color=042460)
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=587d9f)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=587d9f)
