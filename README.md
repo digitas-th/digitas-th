@@ -18,7 +18,7 @@ Mar-Tech Transformation – การสร้างเทคโนโลยี�
 เพื่อประสิทธิภาพที่คุ้มค่าที่สุด รักงานเกินปุยมุ้ยยย <br>
 .
 <br>
-#DIGITASTHAILAND #PublicisgroupeThailand<br><br>
+#DIGITASTHAILAND #PublicisgroupeThailand<br><br><br>
 
 ## 🎯 Skills and Experience
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html5&logoColor=white&color=042460)
@@ -44,7 +44,7 @@ Mar-Tech Transformation – การสร้างเทคโนโลยี�
 <img align="left" src="https://github.com/digitas-th/digitas-th/blob/main/rw1.jpeg" width="260" height="260">
 <img align="left" src="https://github.com/digitas-th/digitas-th/blob/main/rw2.jpeg" width="260" height="260">
 <img src="https://github.com/digitas-th/digitas-th/blob/main/rw3.jpeg" width="260" height="260">
-<br>
+<br><br>
 
 ## &#x1f4c8; GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com?user=digitas-th&theme=radical&date_format=j%20M%5B%20Y%5D" width="600">
