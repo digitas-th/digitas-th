@@ -1,9 +1,9 @@
-## 🙏 Digitas Thailand 🙏
+## 🦄 Digitas Thailand 🥇
 
 ![alt text](https://github.com/digitas-th/digitas-th/blob/main/github_digitas_banner.gif)
 <br>
 
-## 💻 Skills and Experience
+## 🎯 Skills and Experience
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html5&logoColor=white&color=042460)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=042460)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Php&logoColor=white&color=042460)
