@@ -41,9 +41,9 @@ Mar-Tech Transformation – การสร้างเทคโนโลยี�
 
 <br>
 <img src="https://github.com/digitas-th/digitas-th/blob/main/rw0.jpeg" width="1000" height="450">
-<img align="left" src="https://github.com/digitas-th/digitas-th/blob/main/rw1.jpeg" width="270" height="270">
-<img align="left" src="https://github.com/digitas-th/digitas-th/blob/main/rw2.jpeg" width="270" height="270">
-<img src="https://github.com/digitas-th/digitas-th/blob/main/rw3.jpeg" width="270" height="270">
+<img align="left" src="https://github.com/digitas-th/digitas-th/blob/main/rw1.jpeg" width="260" height="260">
+<img align="left" src="https://github.com/digitas-th/digitas-th/blob/main/rw2.jpeg" width="260" height="260">
+<img src="https://github.com/digitas-th/digitas-th/blob/main/rw3.jpeg" width="260" height="260">
 <br>
 
 ## &#x1f4c8; GitHub Stats
